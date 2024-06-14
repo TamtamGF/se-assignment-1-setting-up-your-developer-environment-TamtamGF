@@ -1,0 +1,377 @@
+answer to assignment 1 week 2
+documentation
+windows installation
+I chose windows 10 pro as my operating system.I chose it because it is user friendly and has favourable environment to me.
+steps to install windows os are as follows:
+Step 1: Prepare Your PC
+Backup Your Data: Ensure you have backed up all important data from your PC. Installing a new OS can wipe your existing data.
+
+Check System Requirements: Ensure your PC meets the minimum system requirements for Windows 10:
+
+Processor: 1 GHz or faster
+RAM: 1 GB for 32-bit or 2 GB for 64-bit
+Hard Disk Space: 16 GB for 32-bit OS or 20 GB for 64-bit OS
+Graphics Card: DirectX 9 or later with WDDM 1.0 driver
+Display: 800x600 resolution
+Step 2: Create Installation Media
+Download the Media Creation Tool:
+
+Visit the Windows 10 download page.
+Click on "Download tool now" to download the Media Creation Tool.
+Run the Media Creation Tool:
+
+Open the downloaded tool and accept the license terms.
+Select "Create installation media (USB flash drive, DVD, or ISO file) for another PC" and click Next.
+Choose Language, Edition, and Architecture:
+
+Select your preferred language, Windows edition, and architecture (32-bit or 64-bit). Usually, the recommended options based on your current PC will be pre-selected.
+Select Installation Media:
+
+Choose "USB flash drive" if you have a USB drive with at least 8 GB of space.
+Alternatively, choose "ISO file" if you want to create a DVD. You’ll need to burn the ISO file to a DVD later.
+Create the Installation Media:
+
+Follow the prompts to create the installation media. If you chose a USB flash drive, the tool will download and install the Windows 10 setup files on the drive.
+Step 3: Install Windows 10
+Insert the Installation Media:
+
+Insert the USB flash drive or DVD into the PC where you want to install Windows 10.
+Restart Your PC:
+
+Restart your PC and enter the BIOS or UEFI firmware settings. This is usually done by pressing a key like F2, F12, Delete, or Esc immediately after turning on the PC.
+Change Boot Order:
+
+In the BIOS or UEFI settings, change the boot order to boot from the USB flash drive or DVD first.
+Start Windows Installation:
+
+Save the settings and restart your PC. It should boot from the installation media.
+When prompted, press any key to boot from the USB or DVD.
+Follow the Installation Process:
+
+Select your language, time, and keyboard preferences and click Next.
+Click "Install now."
+Enter your Windows 10 product key if prompted. You can also choose "I don't have a product key" if you want to enter it later.
+Accept License Terms:
+
+Accept the license terms and click Next.
+Choose Installation Type:
+
+Choose "Custom: Install Windows only (advanced)" to perform a clean installation.
+Select Partition:
+
+Select the partition where you want to install Windows 10. If you are installing on a new or wiped drive, select the unallocated space.
+If there are existing partitions, you may want to delete them and create new ones. Be careful, as this will erase all data on those partitions.
+Install Windows:
+
+Follow the prompts to complete the installation. Your PC will restart several times during this process.
+Step 4: Initial Setup
+Set Up Windows:
+
+After the final restart, you’ll be prompted to set up Windows.
+Follow the on-screen instructions to configure your region, keyboard layout, and connect to a network.
+Sign in with a Microsoft Account:
+
+You can sign in with a Microsoft account or create a local account.
+Customize Settings:
+
+Choose your privacy settings and customize your Windows experience.
+Complete Setup:
+
+Finish the setup process and you’ll be taken to the Windows 10 desktop.
+Step 5: Install Drivers and Updates
+Update Windows:
+
+Open Settings > Update & Security > Windows Update and check for updates. Install any available updates.
+Install Drivers:
+
+Install any necessary drivers for your hardware. These can usually be found on the manufacturer's website or through Windows Update.
+
+
+VISUAL STUDIO CODE
+
+I chose visual studio code as my IDE because it is easier to manage compared to android studio.It comes featured with all the extensions.
+
+visual studio installation:
+
+Step 1: Download Visual Studio Installer
+Visit the Visual Studio Website:
+
+Go to the Visual Studio download page.
+Choose Your Version:
+
+Select the version of Visual Studio you want to install (e.g., Visual Studio Community, Professional, or Enterprise). For most individual developers and students, the Community edition is sufficient and free.
+Download the Installer:
+
+Click on the Free download button for the edition you want, which will download the Visual Studio Installer.
+Step 2: Run the Installer
+Open the Installer:
+
+Locate the downloaded Visual Studio Installer file (usually in your Downloads folder) and double-click to run it.
+Start Installation:
+
+The installer will start and download the initial setup files. This may take a few minutes depending on your internet connection.
+
+Step 3: Choose Workloads
+Select Workloads:
+
+After the initial setup, you will be presented with a list of workloads. Workloads are sets of related tools and libraries for specific development tasks. Select the workloads that match your development needs. For example:
+ASP.NET and web development: For web applications.
+Azure development: For cloud-based applications.
+Desktop development with C++: For Windows desktop applications using C++.
+.NET desktop development: For Windows desktop applications using C# or Visual Basic.
+Game development with Unity: For developing games using Unity.
+Mobile development with .NET: For Xamarin-based mobile applications.
+Individual Components (Optional):
+
+If you need more specific components that are not included in the selected workloads, click on the Individual components tab and select them.
+Language Packs (Optional):
+
+If you prefer to use Visual Studio in a language other than English, click on the Language packs tab and select the languages you need.
+Installation Locations (Optional):
+
+If you need to change the installation locations, click on the Installation locations tab and modify the paths.
+Step 4: Install Visual Studio
+Start Installation:
+
+After selecting the workloads and components, click the Install button.
+Wait for Installation:
+
+The installer will download and install the selected components. This process can take some time depending on the number of components selected and the speed of your internet connection.
+Step 5: Launch Visual Studio
+Complete Installation:
+
+Once the installation is complete, click the Launch button to start Visual Studio.
+Sign In:
+
+The first time you run Visual Studio, you may be prompted to sign in with your Microsoft account. Signing in is optional but recommended for synchronizing settings and accessing certain features.
+Initial Configuration:
+
+You will be asked to select your preferred development settings and theme. Choose the settings that best match your development style.
+Step 6: Start a New Project
+Create a New Project:
+
+Click on Create a new project from the start screen.
+Select a Template:
+
+Choose a project template based on the type of application you want to develop. For example, if you're developing a console application in C#, select Console App (.NET Core).
+Configure Your Project:
+
+Enter the project name, location, and other configuration settings, then click Create.
+Begin Coding:
+
+Visual Studio will create the project and open the main editor window where you can start coding.
+
+
+
+version control systems
+1.Git 
+
+Step 1: Download Git
+
+Visit the Git Website:
+
+Navigate to the official Git website at git-scm.com.
+Choose Your Operating System:
+
+Click on the download link for your operating system (Windows, macOS, or Linux).
+
+Download the Installer:
+
+For Windows: Click on the "Download for Windows" button to get the Git installer.
+For macOS: You can download the installer directly, or use Homebrew to install Git by running brew install git in the terminal.
+For Linux: Use your package manager to install Git. For example, on Debian-based systems like Ubuntu, run sudo apt-get install git.
+
+Step 2: Run the Installer
+
+Locate the Installer:
+
+Find the downloaded Git installer file, usually located in your Downloads folder.
+Start the Installation:
+
+Double-click the installer file to begin the setup process.
+Follow the Setup Wizard:
+
+The setup wizard will guide you through the installation process. You can generally proceed with the default settings unless you have specific preferences.
+Complete the Installation:
+
+Click "Next" through the various setup steps and then click "Install" to start the installation. Once the process is complete, click "Finish".
+Step 3: Verify the Installation
+Open a Terminal or Command Prompt:
+
+For Windows: Open Command Prompt.
+For macOS or Linux: Open your terminal application.
+Check the Git Version:
+
+Type the following command to verify that Git is installed and to check the version:
+git --version
+This should output the installed version of Git, confirming that the installation was successful.
+Step 4: Basic Configuration
+
+Set Your Username:
+
+Configure your Git username by running the following command:
+
+git config --global user.name "Tamtam"
+Set Your Email:
+
+Configure your Git email address:
+git config --global user.email "samuelochieng033@gmail.com"
+
+2.Github setup
+
+Visit the GitHub Website:
+
+Go to GitHub.com
+Sign Up:
+
+Click on "Sign up" and fill in the required information to create a new account. This includes your username, email address, and password.
+Verify Your Account:
+
+Follow the instructions sent to your email to verify your new GitHub account.
+
+Create a Repository
+
+Create a New Repository on GitHub:
+
+Log in to GitHub and click on the "New repository" button. Enter a name for your repository and configure the desired settings, then click "Create repository."
+Clone the Repository to Your Local Machine:
+
+Copy the repository URL. Open your terminal and navigate to the directory where you want to clone the repository. Run:
+git clone git@github.com:your-username/your-repository.git
+Replace your-username and your-repository with your GitHub username and the repository name.
+
+Navigate to the Repository Directory:
+cd your-repository
+
+Start Using Git and GitHub
+Add Files to Your Repository:
+
+Create or add files to your repository directory.
+Commit Changes:
+
+Stage your changes:
+git add .
+Commit your changes with a message:
+
+git commit -m "Initial commit"
+
+Push Changes to GitHub:
+
+Push your changes to the remote repository:
+
+git push origin main
+
+Replace main with the name of your branch if different.
+
+How to install python
+
+Download Python 3.12
+
+Visit the Python Website:
+
+Go to the official Python website at python.org.
+Navigate to Downloads:
+
+Hover over the "Downloads" tab and select "Python 3.12.x" from the dropdown menu.
+Download the Installer:
+
+Choose the installer appropriate for your operating system (Windows, macOS, or Linux) and download it.
+Step 2: Install Python 3.12 on Windows
+Run the Installer:
+
+Locate the downloaded installer (e.g., python-3.12.x-amd64.exe) and double-click to run it.
+Customize Installation:
+
+In the installer, make sure to check the box that says "Add Python 3.12 to PATH".
+Click on "Customize installation" to see additional options, then click "Next".
+Optional Features:
+
+Leave the default optional features selected and click "Next".
+Advanced Options:
+
+You can choose to install Python for all users or customize the installation location. Leave the other options as default unless you have specific requirements.
+Click "Install" to begin the installation.
+Complete the Installation:
+
+Wait for the installation to complete. Once it's done, click "Close".
+Verify the Installation:
+
+Open Command Prompt and type:
+
+python --version
+
+This should display the installed version of Python, confirming the installation was successful.
+
+
+How to install Mysql
+
+
+ Download MySQL
+Visit the MySQL Website:
+
+Go to the official MySQL website at mysql.com.
+Navigate to Downloads:
+
+Click on "Downloads" at the top of the page.
+Under "MySQL Community (GPL) Downloads", select "MySQL Community Server".
+Choose Your Operating System:
+
+Select your operating system from the list (Windows, macOS, Linux).
+Download the Installer:
+
+Click on the appropriate installer (e.g., MySQL Installer for Windows) and download it.
+Step 2: Install MySQL on Windows
+Run the Installer:
+
+Locate the downloaded installer file (e.g., mysql-installer-community-<version>.msi) and double-click to run it.
+Choose Setup Type:
+
+Select a setup type (e.g., "Developer Default", "Server only", "Full", or "Custom") and click "Next".
+
+Check Requirements:
+
+The installer will check for any missing requirements. Click "Next" to continue.
+Installation:
+
+Click "Execute" to download and install the selected products. Once complete, click "Next".
+Configuration:
+
+Follow the steps to configure your MySQL server:
+Type and Networking: Choose the server type and connectivity options.
+Authentication Method: Select the authentication method.
+Accounts and Roles: Set up the root password and create user accounts if needed.
+Windows Service: Configure MySQL to run as a Windows service.
+Apply Configuration: Apply the configuration settings.
+Complete Installation:
+
+Once all configurations are applied, click "Finish".
+Verify Installation:
+
+Open Command Prompt and type:
+
+mysql -u root -p
+
+Enter the root password to log in and verify the installation.
+ 
+
+
+virtual environment
+
+As for me i installed pipenv .I used the command pip install pipenvinthe command line to install the virtual environment which i used to run django code in it.
+
+
+Extensions
+
+As for me i chose visual studio code as my IDE.Within the visual studio code i added several extensions such as :
+
+.prettier- to make the code look attractive.
+.python debugger-used in debugging python codes.
+.dart-used handling dart codes.
+.msql-extension for the mysql.
+
+Challenges faced
+1 slow internet.
+2 my laptop was lagging behind.
+3.some packages such as flutter were difficult to install.
+4Power shortage.
+5Fatigue.
